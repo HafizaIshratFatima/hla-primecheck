@@ -1,0 +1,3 @@
+Allele (reported experimental typing),Cell line,pegRNA 1 editing %,pegRNA 2 editing %,Interpretation,Database mapping note
+HLA-A*24:02,454E2,34.81,17.58,Both pegRNAs experimentally edit this allele,Exact two-field allele name not present in input FASTA table; match high-resolution suballeles only after confirming typing
+HLA-B*52:01,454E2,4.96,10.49,Both pegRNAs experimentally edit this allele,Exact two-field allele name not present in input FASTA table; match high-resolution suballeles only after confirming typing
