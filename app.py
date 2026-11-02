@@ -5,6 +5,11 @@ import streamlit as st
 
 st.set_page_config(page_title="HLA PrimeCheck", page_icon="🧬", layout="wide")
 st.title("🧬 HLA PrimeCheck")
+st.caption(
+    "Reference database: IPD-IMGT/HLA Release 3.66.0 | "
+    "HLA-A, HLA-B and HLA-C | "
+    "Allele-resolved sequence compatibility screening"
+)
 st.caption("Allele-resolved sequence compatibility · IGA-050 and IGA-051 · Research prototype, not an editing-efficiency predictor")
 ROOT = Path(__file__).parent
 
